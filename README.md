@@ -1,75 +1,105 @@
 <div align="center">
 
-# 🌿 SASIPRIYA DHANAPAL
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c7744&height=220&section=header&text=SASIPRIYA%20DHANAPAL&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=18" />
+
+<br>
+
+# 👋 Hello, I'm Sasipriya
 
 ### `Aspiring Java Full Stack Developer`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=2E8B57&center=true&vCenter=true&width=650&lines=Java+Developer+in+Progress+%E2%98%95;SQL+%7C+HTML+%7C+CSS+%7C+JavaScript;Building+Projects+%7C+Learning+Every+Day+%F0%9F%9A%80" />
+<p>
+  <i>Turning ideas into code, one project at a time.</i>
+</p>
 
 <br>
 
 <a href="https://github.com/Sasipriya-03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github" />
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/sasipriya-dhanapal/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-&nbsp;
+
 <a href="https://www.hackerrank.com/profile/sasijeevitha16">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerRank-Coding-2EC866?style=for-the-badge&logo=hackerrank" />
 </a>
-&nbsp;
+
 <a href="mailto:sasijeevitha16@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
 </div>
 
 ---
 
-## 🖥️ `who_am_i`
+## 🌿 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+### Hey there! 👋
+
+I'm **Sasipriya Dhanapal**, a B.E. Electronics and Communication Engineering graduate and an aspiring **Java Full Stack Developer**.
+
+I'm currently focusing on strengthening my programming and web development skills by learning, practicing and building projects.
+
+I enjoy exploring new technologies, solving coding problems and turning concepts into practical applications.
+
+</td>
+
+<td width="40%">
 
 ```text
-Name        : Sasipriya Dhanapal
-Education   : B.E. Electronics & Communication Engineering
-Role        : Aspiring Java Full Stack Developer
-Focus       : Java | SQL | Web Development
-Learning    : Full Stack Development
-Goal        : Software Developer
+🎓 Education
+B.E. ECE
+
+💻 Role
+Java Full Stack
+Developer
+
+🌱 Learning
+Java • SQL
+HTML • CSS
+JavaScript
+
+🎯 Goal
+Software Developer
 ```
 
----
-
-## 🌱 About Me
-
-> I am a passionate fresher interested in **Java Full Stack Development**.
->
-> I enjoy learning programming concepts, building small projects,
-> practicing SQL queries and improving my web development skills.
->
-> My goal is to start my career in a reputed organization,
-> contribute to real-world projects and continuously grow as a developer.
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚙️ My Development Stack
+# 💻 What I Work With
 
 <div align="center">
 
-### ☕ Backend & Programming
+### Backend
 
 <img src="https://skillicons.dev/icons?i=java" />
 
-### 🎨 Frontend
+<br><br>
+
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-### 🗄️ Database
+<br><br>
+
+### Database
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-### 🧰 Tools
+<br><br>
+
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 
@@ -77,66 +107,113 @@ Goal        : Software Developer
 
 ---
 
-# 🚀 Things I'm Building
+# 🚀 Featured Work
 
-## 💼 01 — Online Job Portal
+<div align="center">
 
-```text
-┌──────────────────────────────────────────────┐
-│              ONLINE JOB PORTAL               │
-├──────────────────────────────────────────────┤
-│                                              │
-│  👤 Registration & Login                     │
-│  🔍 Job Search                               │
-│  💰 Salary Filtering                         │
-│  📄 Job Details                              │
-│  📝 Job Application                           │
-│  📋 Application Management                   │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+## 💼 Online Job Portal
 
-**Built with**
+<img src="https://via.placeholder.com/900x450.png?text=ONLINE+JOB+PORTAL" width="85%" />
 
-`Java` `OOP` `ArrayList` `Methods` `Exception Handling`
+### `Core Java Project`
 
----
+A console-based job portal designed to help users discover and apply for IT and Non-IT job opportunities.
 
-## 🌐 02 — Web Designing Projects
+**Key Features**
 
-```text
-HTML
-  ↓
-CSS
-  ↓
-Responsive Design
-  ↓
-JavaScript
-  ↓
-Interactive Web Pages
-```
+`User Registration` • `Login` • `Job Search` • `Salary Filter` • `Job Details` • `Job Application`
 
-Focused on creating clean, responsive and user-friendly web interfaces.
+**Technologies**
 
-**Built with**
+☕ Java   |   🧩 OOP   |   📋 ArrayList   |   ⚙️ Methods
 
-`HTML` `CSS` `JavaScript`
+<br>
+
+<a href="https://github.com/Sasipriya-03">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2c7744?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
-## 🗄️ 03 — SQL Practice
+<div align="center">
 
-Currently practicing **Oracle SQL** through query-based exercises.
+## 🌐 Web Designing Projects
+
+<img src="https://via.placeholder.com/900x450.png?text=WEB+DESIGNING+PROJECT" width="85%" />
+
+### `Frontend Development`
+
+Responsive and user-friendly web pages created while practicing modern frontend development concepts.
+
+**Focus Areas**
+
+`HTML Structure` • `CSS Styling` • `Responsive Design` • `JavaScript Basics`
+
+<br>
+
+<a href="https://github.com/Sasipriya-03">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-2c7744?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+# 🗄️ SQL Journey
+
+<div align="center">
+
+### Currently practicing Oracle SQL
+
+<br>
+
+`SELECT`
+
+`WHERE`
+
+`GROUP BY`
+
+`HAVING`
+
+`JOINS`
+
+`SUBQUERIES`
+
+`SINGLE ROW FUNCTIONS`
+
+`MULTI ROW FUNCTIONS`
+
+</div>
+
+---
+
+# 🌱 Learning Journey
 
 ```text
-SELECT
-WHERE
-GROUP BY
-HAVING
-JOINS
-SUBQUERIES
-SINGLE ROW FUNCTIONS
-MULTI ROW FUNCTIONS
+       🎓 B.E. ECE
+            │
+            ▼
+     💻 Programming Basics
+            │
+            ▼
+        ☕ Java
+            │
+            ▼
+        🗄️ SQL
+            │
+            ▼
+     🌐 Web Development
+            │
+            ▼
+    ⚡ JavaScript
+            │
+            ▼
+   🚀 Full Stack Development
+            │
+            ▼
+    💼 Software Developer
 ```
 
 ---
@@ -145,65 +222,83 @@ MULTI ROW FUNCTIONS
 
 <div align="center">
 
-|   Technology  |         Focus        |
-| :-----------: | :------------------: |
-|     ☕ Java    |    Core Java & OOP   |
-|    🗄️ SQL    | Oracle SQL & Queries |
-|    🌐 HTML    |     Web Structure    |
-|     🎨 CSS    |   Responsive Design  |
-|  ⚡ JavaScript |     Fundamentals     |
-| 🚀 Full Stack |  Development Journey |
+|     Technology    | Learning Focus                           |
+| :---------------: | :--------------------------------------- |
+|     ☕ **Java**    | Core Java • OOP • Problem Solving        |
+|    🗄️ **SQL**    | Queries • Joins • Subqueries • Functions |
+|    🌐 **HTML**    | Structure • Forms • Semantic Elements    |
+|     🎨 **CSS**    | Styling • Layout • Responsive Design     |
+|  ⚡ **JavaScript** | Fundamentals • DOM • Events              |
+| 🚀 **Full Stack** | Building complete applications           |
 
 </div>
 
 ---
 
-# 🧠 Developer Mindset
+# 🎯 2026 Goals
 
 ```text
-          LEARN
-            ↓
-          PRACTICE
-            ↓
-          BUILD
-            ↓
-          DEBUG
-            ↓
-          IMPROVE
-            ↓
-          REPEAT 🔁
+✓ Complete B.E.
+✓ Build Java projects
+✓ Practice SQL regularly
+✓ Improve web development skills
+→ Learn Java Full Stack Development
+→ Build real-world applications
+→ Create my Portfolio
+→ Add my Resume
+→ Start my Software Development Career
 ```
 
-> **Small progress every day leads to big results. 🚀**
+---
+
+# 🧩 What I Believe In
+
+<div align="center">
+
+### 💡 Learn
+
+**Understand the concept**
+
+↓
+
+### 🛠️ Practice
+
+**Write the code**
+
+↓
+
+### 🚀 Build
+
+**Create projects**
+
+↓
+
+### 🔍 Improve
+
+**Learn from mistakes**
+
+↓
+
+### 🌱 Grow
+
+**Become a better developer**
+
+</div>
 
 ---
 
-# 🎯 My 2026 Goals
-
-* [x] Complete B.E.
-* [x] Start learning Java
-* [x] Practice SQL
-* [x] Build Java projects
-* [ ] Improve Java Full Stack skills
-* [ ] Build real-world applications
-* [ ] Create my personal portfolio
-* [ ] Add my resume
-* [ ] Become a professional Software Developer
-
----
-
-# 🏅 Coding Profiles
+# 🏆 Coding & Professional Profiles
 
 <div align="center">
 
 <a href="https://github.com/Sasipriya-03">
-<img src="https://img.shields.io/badge/GitHub-My%20Repositories-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" />
 </a>
 
 <br><br>
 
 <a href="https://www.hackerrank.com/profile/sasijeevitha16">
-<img src="https://img.shields.io/badge/HackerRank-My%20Profile-2EC866?style=for-the-badge&logo=hackerrank" />
+<img src="https://img.shields.io/badge/HackerRank-View%20My%20Profile-2EC866?style=for-the-badge&logo=hackerrank" />
 </a>
 
 <br><br>
@@ -216,37 +311,58 @@ MULTI ROW FUNCTIONS
 
 ---
 
-# 📬 Let's Connect
-
-```text
-📧 Email     → sasijeevitha16@gmail.com
-💼 LinkedIn  → sasipriya-dhanapal
-🐙 GitHub    → Sasipriya-03
-🟢 HackerRank → sasijeevitha16
-```
-
----
-
 # 📄 Resume & Portfolio
+
+<div align="center">
 
 ### 🚧 Coming Soon
 
-My **Resume** and **Portfolio** will be added here soon.
+My Resume and Portfolio will be added here soon.
+
+<br>
+
+`Resume 🔒`     `Portfolio 🔒`
+
+</div>
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+### 💚 Open to learning, collaboration and opportunities
+
+<br>
+
+📧 **[sasijeevitha16@gmail.com](mailto:sasijeevitha16@gmail.com)**
+
+<br>
+
+<a href="https://www.linkedin.com/in/sasipriya-dhanapal/">
+<img src="https://img.shields.io/badge/LinkedIn-Sasipriya%20Dhanapal-0A66C2?style=flat-square&logo=linkedin" />
+</a>
+
+ 
+
+<a href="https://www.hackerrank.com/profile/sasijeevitha16">
+<img src="https://img.shields.io/badge/HackerRank-sasijeevitha16-2EC866?style=flat-square&logo=hackerrank" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🌿 Keep Learning. Keep Building. Keep Growing.
-
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Sasipriya-03&label=Profile%20Views&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c7744,100:0f2027&height=120&section=footer" />
 
-<br><br>
+### 🌿 Keep Learning • Keep Building • Keep Growing
 
-### ⭐ Thanks for visiting my GitHub profile!
+**Thanks for visiting my profile! 💚**
 
-**Made with 💚 by Sasipriya Dhanapal**
+⭐ *Feel free to explore my repositories.*
 
 </div>
