@@ -1,10 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm **Sasipriya Dhanapal**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:90EE90&height=180&section=header&text=Sasipriya%20Dhanapal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+# 👋 Hi, I'm **Sasipriya**
 
 ### 💻 Aspiring Java Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=550&lines=Java+Developer+in+Progress+%E2%98%95;Java+%7C+SQL+%7C+Web+Development;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=2E8B57&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Java+%7C+SQL+%7C+HTML+%7C+CSS+%7C+JavaScript;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" />
+
+<br>
 
 <a href="https://www.linkedin.com/in/sasipriya-dhanapal/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
@@ -28,37 +32,47 @@
 
 💻 Aspiring **Java Full Stack Developer**
 
-🌱 Currently learning **Java, SQL & Web Development**
+🌱 Learning **Java, SQL & Web Development**
 
-🚀 Passionate about learning, building projects and growing as a developer.
+🚀 Passionate about coding, learning and building projects.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,eclipse" />
-</p>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 💼 Online Job Portal
 
-<img src="https://via.placeholder.com/700x300.png?text=Online+Job+Portal" width="80%" />
+<div align="center">
 
-**Core Java** project for searching, filtering and applying for IT & Non-IT jobs.
+<img src="https://via.placeholder.com/700x300.png?text=%F0%9F%92%BC+ONLINE+JOB+PORTAL" width="80%" />
+
+</div>
+
+Core Java project for **searching, filtering and applying for IT & Non-IT jobs.**
 
 `Java` `OOP` `ArrayList` `Methods`
 
 ---
 
-### 🌐 Web Designing Projects
+### 🌐 Web Designing
 
-<img src="https://via.placeholder.com/700x300.png?text=Web+Designing" width="80%" />
+<div align="center">
 
-Responsive web pages created using:
+<img src="https://via.placeholder.com/700x300.png?text=%F0%9F%8C%90+WEB+DESIGNING" width="80%" />
+
+</div>
+
+Responsive web pages developed using:
 
 `HTML` `CSS` `JavaScript`
 
@@ -70,26 +84,40 @@ Responsive web pages created using:
 
 ---
 
-## 🔗 Find Me Online
+## 🔗 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sasipriya--03-181717?style=flat-square\&logo=github)](https://github.com/Sasipriya-03)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sasipriya-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/sasipriya-dhanapal/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Sasipriya-2EC866?style=flat-square\&logo=hackerrank)](https://www.hackerrank.com/profile/sasijeevitha16)
+<div align="center">
+
+<a href="https://github.com/Sasipriya-03">
+<img src="https://img.shields.io/badge/GitHub-Sasipriya--03-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/sasipriya-dhanapal/">
+<img src="https://img.shields.io/badge/LinkedIn-Sasipriya-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/sasijeevitha16">
+<img src="https://img.shields.io/badge/HackerRank-Sasipriya-2EC866?style=for-the-badge&logo=hackerrank" />
+</a>
+
+<br><br>
 
 📧 **[sasijeevitha16@gmail.com](mailto:sasijeevitha16@gmail.com)**
+
+</div>
 
 ---
 
 ## 📄 Resume & Portfolio
 
-🚧 **Coming Soon**
+🚧 **Coming Soon...**
 
 ---
 
 <div align="center">
 
-### 🌿 Learn • Build • Grow 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:90EE90,100:2E8B57&height=120&section=footer&animation=fadeIn" />
 
-**Thanks for visiting my profile!**
+### 🌿 Learn • Build • Grow 🚀
 
 </div>
