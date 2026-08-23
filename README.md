@@ -1,5 +1,3 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
 # 👋 Hi, I'm **Sasipriya Dhanapal**
@@ -16,6 +14,10 @@
 
 <a href="https://www.linkedin.com/in/sasipriya-dhanapal/">
 <img src="https://img.shields.io/badge/LinkedIn-Sasipriya%20Dhanapal-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/sasijeevitha16">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" />
 </a>
 
 <a href="mailto:sasijeevitha16@gmail.com">
@@ -36,18 +38,18 @@
 
 🚀 Interested in building real-world software applications
 
-💡 I enjoy learning new technologies and solving programming problems
+💡 Passionate about learning new technologies and solving programming problems
 
 🎯 **Goal:** To start my career in a reputed company and grow as a skilled software developer.
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### ☕ Programming
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python" />
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### 🌐 Web Development
@@ -72,13 +74,11 @@
 
 ## 📚 Currently Learning
 
-```text
-Java              █████████████████░░░  85%
-SQL               ████████████████░░░░  80%
-HTML & CSS        █████████████████░░░  85%
-JavaScript        ████████████░░░░░░░░  60%
-Full Stack        ██████████░░░░░░░░░░  50%
-```
+* ☕ Java
+* 🗄️ SQL
+* 🌐 HTML & CSS
+* ⚡ JavaScript
+* 🚀 Full Stack Development
 
 ---
 
@@ -98,6 +98,7 @@ A console-based job portal application where users can:
 * 📋 Manage Applications
 
 **Concepts Used:**
+
 `OOP` `ArrayList` `Methods` `Loops` `Conditional Statements` `Exception Handling`
 
 ---
@@ -121,46 +122,6 @@ Created responsive and user-friendly web pages while practicing:
 Currently practicing **Oracle SQL** including:
 
 `SELECT` `WHERE` `GROUP BY` `HAVING` `JOINS` `SUBQUERIES` `FUNCTIONS`
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sasipriya-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sasipriya-03&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sasipriya-03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sasipriya-03&theme=tokyo-night&hide_border=true" />
-
-</div>
 
 ---
 
@@ -194,26 +155,24 @@ Java Full Stack Development
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
 
-### 🔗 LinkedIn
+<a href="https://github.com/Sasipriya-03">
+<img src="https://img.shields.io/badge/GitHub-Sasipriya--03-181717?style=for-the-badge&logo=github" />
+</a>
 
 <a href="https://www.linkedin.com/in/sasipriya-dhanapal/">
 <img src="https://img.shields.io/badge/LinkedIn-Sasipriya%20Dhanapal-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-### 📧 Email
+<a href="https://www.hackerrank.com/profile/sasijeevitha16">
+<img src="https://img.shields.io/badge/HackerRank-Sasipriya-2EC866?style=for-the-badge&logo=hackerrank" />
+</a>
 
 <a href="mailto:sasijeevitha16@gmail.com">
 <img src="https://img.shields.io/badge/Email-sasijeevitha16%40gmail.com-EA4335?style=for-the-badge&logo=gmail" />
-</a>
-
-### 🐙 GitHub
-
-<a href="https://github.com/Sasipriya-03">
-<img src="https://img.shields.io/badge/GitHub-Sasipriya--03-181717?style=for-the-badge&logo=github" />
 </a>
 
 </div>
