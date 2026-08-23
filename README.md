@@ -4,24 +4,18 @@
 
 ### 💻 Aspiring Java Full Stack Developer
 
-**Java • SQL • HTML • CSS • JavaScript**
-
-<br>
-
-<a href="https://github.com/Sasipriya-03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=550&lines=Java+Developer+in+Progress+%E2%98%95;Java+%7C+SQL+%7C+Web+Development;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" />
 
 <a href="https://www.linkedin.com/in/sasipriya-dhanapal/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/sasijeevitha16">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" />
 </a>
 
 <a href="mailto:sasijeevitha16@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
 </div>
@@ -36,11 +30,11 @@
 
 🌱 Currently learning **Java, SQL & Web Development**
 
-🚀 Interested in building real-world applications and improving my programming skills.
+🚀 Passionate about learning, building projects and growing as a developer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,eclipse" />
@@ -48,27 +42,23 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 💼 Online Job Portal
 
-<p align="center">
-<img src="https://via.placeholder.com/700x300?text=Online+Job+Portal" width="75%" />
-</p>
+<img src="https://via.placeholder.com/700x300.png?text=Online+Job+Portal" width="80%" />
 
-A **Core Java** project for searching, filtering and applying for IT & Non-IT jobs.
+**Core Java** project for searching, filtering and applying for IT & Non-IT jobs.
 
-**Technologies:** `Java` `OOP` `ArrayList` `Methods`
+`Java` `OOP` `ArrayList` `Methods`
 
 ---
 
 ### 🌐 Web Designing Projects
 
-<p align="center">
-<img src="https://via.placeholder.com/700x300?text=Web+Designing" width="75%" />
-</p>
+<img src="https://via.placeholder.com/700x300.png?text=Web+Designing" width="80%" />
 
-Responsive web pages developed using:
+Responsive web pages created using:
 
 `HTML` `CSS` `JavaScript`
 
@@ -76,27 +66,30 @@ Responsive web pages developed using:
 
 ## 📚 Currently Learning
 
-☕ Java   |   🗄️ SQL   |   🌐 Web Development
+☕ **Java**   •   🗄️ **SQL**   •   🌐 **Web Development**
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Find Me Online
 
-<p align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-Sasipriya--03-181717?style=flat-square\&logo=github)](https://github.com/Sasipriya-03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sasipriya-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/sasipriya-dhanapal/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Sasipriya-2EC866?style=flat-square\&logo=hackerrank)](https://www.hackerrank.com/profile/sasijeevitha16)
 
-<a href="https://github.com/Sasipriya-03">GitHub</a>
-  •   <a href="https://www.linkedin.com/in/sasipriya-dhanapal/">LinkedIn</a>
-  •   <a href="https://www.hackerrank.com/profile/sasijeevitha16">HackerRank</a>
-  •   <a href="mailto:sasijeevitha16@gmail.com">Email</a>
+📧 **[sasijeevitha16@gmail.com](mailto:sasijeevitha16@gmail.com)**
 
-</p>
+---
+
+## 📄 Resume & Portfolio
+
+🚧 **Coming Soon**
 
 ---
 
 <div align="center">
 
-### 🌿 Learn • Build • Grow
+### 🌿 Learn • Build • Grow 🚀
 
-**Thanks for visiting my profile!** 💚
+**Thanks for visiting my profile!**
 
 </div>
